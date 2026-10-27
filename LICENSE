@@ -1,0 +1,51 @@
+PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+
+Copyright (c) 2026 the owner of this repository. All rights reserved.
+
+This repository and everything in it - source code, configuration, data
+snapshots, notebooks, documentation, designs and any other material (the
+"Software") - is the proprietary work of the copyright holder.
+
+1. NO LICENCE GRANTED
+   Except for the limited permission in section 2, no licence or right is
+   granted to anyone, by implication, estoppel or otherwise. Making this
+   repository publicly visible does NOT place the Software in the public
+   domain and does NOT make it open source.
+
+2. LIMITED EVALUATION PERMISSION
+   The organisation to which this Software was submitted as part of a
+   technical assessment, and its staff acting on its behalf, may view, clone
+   and run the Software solely for the purpose of evaluating that
+   submission. This permission ends when the evaluation ends and cannot be
+   transferred or sub-licensed.
+
+3. RESTRICTIONS
+   Without prior written permission from the copyright holder, you may not,
+   in whole or in part:
+     a) copy, reproduce or redistribute the Software;
+     b) modify, adapt, translate or create derivative works from it;
+     c) use it in any product, service, assessment submission, coursework,
+        portfolio or commercial or non-commercial project;
+     d) sell, sublicense, rent, lease or otherwise make it available to any
+        third party;
+     e) use it to train, fine-tune or evaluate any machine-learning or AI
+        model, or include it in any dataset;
+     f) remove or alter this notice or any copyright notice.
+
+4. THIRD-PARTY DATA
+   Data in backend/data/ was obtained from Elexon's BMRS API and remains
+   subject to Elexon's own licence terms. Nothing in this licence grants
+   any rights in that data.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR ITS USE.
+
+6. TERMINATION
+   Any use outside section 2 is unauthorised and may constitute copyright
+   infringement. Any permission you have ends automatically if you breach
+   these terms.
+
+For permission requests, contact the repository owner through GitHub.

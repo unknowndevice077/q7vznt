@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.vercel/
+.env
+.env.*
+.claude/
+*.log
+_notes/
