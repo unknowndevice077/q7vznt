@@ -4,7 +4,7 @@ A web app for a UK day-ahead power procurement desk. It shows **which wind forec
 
 Scope: national-level GB wind from Elexon BMRS only - `FUELHH` (fuelType `WIND`) for actual generation and `WINDFOR` for forecasts - for purchase decisions made in **January 2026**.
 
-**Live app:** https://q7vznt.vercel.app &nbsp;·&nbsp; **Video walkthrough:** `<YOUTUBE_URL>`
+**Live app:** https://q7vznt.vercel.app &nbsp;·&nbsp; **Video walkthrough:** https://youtu.be/EO7x0wdK09A
 
 ---
 
